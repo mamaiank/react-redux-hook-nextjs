@@ -1,2 +1,2 @@
-# react-redux-hook-nextjs
-Learning React Redux Hooks Next.js
+# react-hooks-redux-nextjs
+Learning React Hooks Redux Next.js
